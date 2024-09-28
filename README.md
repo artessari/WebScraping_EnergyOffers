@@ -50,5 +50,7 @@ pip install -r requirements.txt
 To explore the project interactively, launch the notebook.
 
 ### References
+
 **ARERA** - Autorità di Regolazione per Energia Reti e Ambiente (Regulatory Authority for Energy, Networks and Environment)
+
 Source for Web Scraping: [Il Portale Offerte](https://www.ilportaleofferte.it/portaleOfferte/it/confronto-tariffe-prezzi-luce-gas.page)
